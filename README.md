@@ -76,7 +76,7 @@ ros2 run turtlesim turtle_teleop_key
 
 # 2. 读取MPU6050
 ## 2.1 硬件连接
-![stm32--MPU6050--CH340g]()
+![stm32--MPU6050--CH340g](https://github.com/qqqqqwwwy/Linux-Project/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-21%20113835.png?raw=true)
 
 ## 2.2 stm32读取MPU6050
 ### 2.2.1 配置STM32CubeMX
